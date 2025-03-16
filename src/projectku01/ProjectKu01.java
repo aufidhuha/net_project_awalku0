@@ -17,7 +17,7 @@ public class ProjectKu01 {
         System.out.println("Hello Aufi");
         System.out.println("Hello Dhuha");
         System.out.println("Hello Mutaafif");
-        System.out.println("jjj");
+        System.out.println("Hello Semuanya");
     }
     
 }
